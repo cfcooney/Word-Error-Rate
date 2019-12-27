@@ -1,5 +1,5 @@
 # Word-Error-Rate
-Python implementation of the Levenstein (edit) distance [1] computation along with word error rate and word accuracy [2].
+Python and GoLang implementations of the Levenstein (edit) distance [1] computation along with word error rate and word accuracy [2].
 
 The three metrics can be used for assessing the performance of an automatic speech recognition system, text-to-speech system
 or a brain-computer interface in which speech is decoded from neural signals.
