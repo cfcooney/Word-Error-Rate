@@ -1,7 +1,7 @@
 /*
 Name: Ciaran Cooney
 Date: 20/12/2019
-Description: Implementation of Levenstein Distance as described below
+Description: Implementation of Levenshtein Distance as described below
  */
 package main
 
